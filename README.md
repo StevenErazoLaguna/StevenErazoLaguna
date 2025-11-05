@@ -108,7 +108,7 @@
 ## 📈 Actividad Reciente
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=StevenErazoLaguna&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 </p>
 
 ## 📫 Si quiere saber mas de mi....
@@ -131,7 +131,7 @@
   
 ### 💡 "Clean code always looks like it was written by someone who cares" - Robert C. Martin
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitantes&color=00D9FF&style=for-the-badge" alt="Contador de visitas"/>
+<img src="https://komarev.com/ghpvc/?username=StevenErazoLaguna&label=Visitantes&color=00D9FF&style=for-the-badge" alt="Contador de visitas"/>
 
 </div>
 
