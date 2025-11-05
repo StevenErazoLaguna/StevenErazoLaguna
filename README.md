@@ -1,4 +1,5 @@
 <div align="center"> 
+  
 ### 🎓 Estudiante de Ingeniería en Ciencias de la Computación
 ### 💡 Desarrollador Full Stack | Arquitecturas Limpias | Microservicios
 
