@@ -44,27 +44,54 @@
 
 ## 💼 Áreas de Especialización
 
-```mermaid
-mindmap
-  root((Steven))
-    Backend
-      Microservicios
-      Clean Architecture
-      Spring Boot
-      APIs RESTful
-    Frontend
-      React
-      TypeScript
-      UI/UX
-    DevOps
-      Docker
-      AWS
-      CI/CD
-    AI/ML
-      LLMs
-      Transformers
-      Simulación
-```
+<table align="center">
+<tr>
+<td width="25%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="80" height="80" alt="Backend"/>
+<br><strong>Backend Development</strong>
+<br><br>
+<sub>
+- Microservicios<br>
+- Clean Architecture<br>
+- APIs RESTful<br>
+- Spring Boot
+</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" height="80" alt="Frontend"/>
+<br><strong>Frontend Development</strong>
+<br><br>
+<sub>
+- React & TypeScript<br>
+- UI/UX Design<br>
+- Responsive Design<br>
+- Modern CSS
+</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" height="80" alt="DevOps"/>
+<br><strong>DevOps & Cloud</strong>
+<br><br>
+<sub>
+- Docker & Kubernetes<br>
+- AWS Services<br>
+- CI/CD Pipelines<br>
+- Infrastructure as Code
+</sub>
+</td>
+<td width="25%" align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="AI/ML"/>
+<br><strong>AI & Machine Learning</strong>
+<br><br>
+<sub>
+- Large Language Models<br>
+- Transformers<br>
+- System Simulation<br>
+- Data Analysis
+</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -79,9 +106,6 @@ mindmap
 ---
 
 ## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
