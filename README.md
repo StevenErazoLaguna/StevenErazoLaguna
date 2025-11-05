@@ -1,7 +1,4 @@
-<div align="center">
-  
-# 👨‍💻 Hola, soy Steven Erazo
-
+<div align="center"> 
 ### 🎓 Estudiante de Ingeniería en Ciencias de la Computación
 ### 💡 Desarrollador Full Stack | Arquitecturas Limpias | Microservicios
 
@@ -99,8 +96,6 @@
 
 - 🔭 Trabajando en arquitecturas limpias y microservicios escalables
 - 🌱 Aprendiendo sobre LLMs y su integración en aplicaciones reales
-- 👯 Buscando colaborar en proyectos de código abierto
-- 💬 Pregúntame sobre Spring Boot, React o arquitectura de software
 - ⚡ Dato curioso: Me apasiona la investigación aplicada y la innovación tecnológica
 
 ---
