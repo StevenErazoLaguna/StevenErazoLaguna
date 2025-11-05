@@ -1,10 +1,10 @@
 <div align="center"> 
   
-### 🎓 Estudiante de Ingeniería en Ciencias de la Computación
-### 💡 Desarrollador Full Stack | Arquitecturas Limpias | Microservicios
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+IA+%26+ML;Clean+Architecture+Enthusiast;Investigaci%C3%B3n+Aplicada" alt="Typing SVG" />
+### 🎓 Computer Science Engineering Student  
+### 💡 Full Stack Developer | Clean Architecture | Microservices  
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Passionate+about+AI+%26+ML;Clean+Architecture+Enthusiast;Applied+Research" alt="Typing SVG" />
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### Backend Development
 <p align="left">
@@ -39,7 +39,7 @@
 
 ---
 
-## 💼 Áreas de Especialización
+## 💼 Areas of Expertise
 
 <table align="center">
 <tr>
@@ -48,9 +48,9 @@
 <br><strong>Backend Development</strong>
 <br><br>
 <sub>
-- Microservicios<br>
+- Microservices<br>
 - Clean Architecture<br>
-- APIs RESTful<br>
+- RESTful APIs<br>
 - Spring Boot
 </sub>
 </td>
@@ -92,15 +92,15 @@
 
 ---
 
-## 🎯 Enfoque Actual
+## 🎯 Current Focus
 
-- 🔭 Trabajando en arquitecturas limpias y microservicios escalables
-- 🌱 Aprendiendo sobre LLMs y su integración en aplicaciones reales
-- ⚡ Dato curioso: Me apasiona la investigación aplicada y la innovación tecnológica
+- 🔭 Working on clean architecture and scalable microservices  
+- 🌱 Learning about LLMs and their integration into real-world applications  
+- ⚡ Fun fact: I’m passionate about applied research and technological innovation  
 
 ---
 
-## 📫 Si quiere saber mas de mi....
+## 📫 Want to know more about me?
 
 <p align="center">
   <a href="mailto:erazoestiven1@gmail.com">
