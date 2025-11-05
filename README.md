@@ -2,7 +2,6 @@
   
 ### 🎓 Estudiante de Ingeniería en Ciencias de la Computación
 ### 💡 Desarrollador Full Stack | Arquitecturas Limpias | Microservicios
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+IA+%26+ML;Clean+Architecture+Enthusiast;Investigaci%C3%B3n+Aplicada" alt="Typing SVG" />
 
 ## 🛠️ Stack Tecnológico
@@ -116,13 +115,5 @@
 </p>
 
 ---
-
-<div align="center">
-  
-### 💡 "Clean code always looks like it was written by someone who cares" - Robert C. Martin
-
-<img src="https://komarev.com/ghpvc/?username=StevenErazoLaguna&label=Visitantes&color=00D9FF&style=for-the-badge" alt="Contador de visitas"/>
-
-</div>
 
 </div>
