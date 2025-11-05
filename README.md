@@ -1,37 +1,139 @@
-# 👋 Hola, soy Steven
+<div align="center">
+  
+# 👨‍💻 Hola, soy Steven Erazo
 
-Soy **Ingeniero en Ciencias de la Computación**, desarrollador y entusiasta de la investigación aplicada.  
-Trabajo con **arquitecturas limpias, microservicios** y **desarrollo full stack**.
+### 🎓 Estudiante de Ingeniería en Ciencias de la Computación
+### 💡 Desarrollador Full Stack | Arquitecturas Limpias | Microservicios
 
----
-
-## 🚀 Tecnologías que utilizo
-
-- **Backend:** Java · Spring Boot · WebFlux · JPA · Docker · PostgreSQL  
-- **Frontend:** React · TypeScript · Vite · TailwindCSS  
-- **DevOps / Cloud:** AWS · Docker Compose · CI/CD · GitHub Actions  
-- **IA / ML:** Python · Transformers · LLMs · Simulación de sistemas
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Desarrollador+Full+Stack;Apasionado+por+IA+%26+ML;Clean+Architecture+Enthusiast;Investigaci%C3%B3n+Aplicada" alt="Typing SVG" />
 
 ---
 
-## 🧩 Proyectos Destacados
+### 📊 Estadísticas de GitHub
 
-### 🏦 [TePresto](https://github.com/tuusuario/tepresto)
-Plataforma fintech que conecta cooperativas de crédito en un solo ecosistema digital.  
-Arquitectura basada en microservicios, con dominios como *customer-service*, *account-service* y *movement-service*.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF"/>
+</p>
 
-### 🧠 Evaluador LLM Educativo
-Sistema experimental que usa modelos locales (Phi, Gemma, Qwen) para analizar el desempeño de estudiantes y generar rutas de aprendizaje personalizadas.
-
----
-
-## 📫 Contacto
-
-- ✉️ **Email:** tuemail@ejemplo.com  
-- 💼 **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)  
-- 💻 **Portafolio:** [tusitio.com](https://tusitio.com)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</p>
 
 ---
 
-⭐ Si te interesa mi trabajo, no olvides dejar una estrella en mis repositorios.
+## 🛠️ Stack Tecnológico
 
+### Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="WebFlux"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose"/>
+</p>
+
+### AI & Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+</p>
+
+---
+
+## 💼 Áreas de Especialización
+
+```mermaid
+mindmap
+  root((Steven))
+    Backend
+      Microservicios
+      Clean Architecture
+      Spring Boot
+      APIs RESTful
+    Frontend
+      React
+      TypeScript
+      UI/UX
+    DevOps
+      Docker
+      AWS
+      CI/CD
+    AI/ML
+      LLMs
+      Transformers
+      Simulación
+```
+
+---
+
+## 🎯 Enfoque Actual
+
+- 🔭 Trabajando en arquitecturas limpias y microservicios escalables
+- 🌱 Aprendiendo sobre LLMs y su integración en aplicaciones reales
+- 👯 Buscando colaborar en proyectos de código abierto
+- 💬 Pregúntame sobre Spring Boot, React o arquitectura de software
+- ⚡ Dato curioso: Me apasiona la investigación aplicada y la innovación tecnológica
+
+---
+
+## 📈 Actividad Reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 Logros de GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📫 Conectemos
+
+<p align="center">
+  <a href="mailto:erazoestiven1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/steven-e-960307119/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://stevenportfolio-alpha.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  
+### 💡 "Clean code always looks like it was written by someone who cares" - Robert C. Martin
+
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitantes&color=00D9FF&style=for-the-badge" alt="Contador de visitas"/>
+
+</div>
+
+</div>
