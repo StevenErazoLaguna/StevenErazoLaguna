@@ -86,16 +86,6 @@
 </tr>
 </table>
 
----
-
-## 🎯 Current Focus
-
-- 🔭 Working on clean architecture and scalable microservices  
-- 🌱 Learning about LLMs and their integration into real-world applications  
-- ⚡ Fun fact: I’m passionate about applied research and technological innovation  
-
----
-
 ## 📫 Want to know more about me?
 
 <p align="center">
