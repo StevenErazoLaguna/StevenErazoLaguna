@@ -1,7 +1,7 @@
 <div align="center">  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;Passionate+about+AI+%26+ML;Clean+Architecture+Enthusiast;Applied+Research" alt="Typing SVG" />
-## 🛠️ Tech Stack
 
+  ## 🛠️ Tech Stack
 ### Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
